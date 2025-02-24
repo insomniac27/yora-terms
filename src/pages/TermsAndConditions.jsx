@@ -42,11 +42,11 @@ const TermsAndConditions = () => {
       <div className="space-y-4">
         <SectionHeader title="1. INTRODUCTION" section="intro">
           <p className="mb-4">
-            If you place an order through www.Yoraa.co.in, the Yoraa app (the "App") or any other website or app in 
+            If you place an order through www.yoraa.in, the Yoraa app (the "App") or any other website or app in 
             which we present these Terms and Conditions (together referred to as the "Platform"), upon confirmation 
             that such order is accepted a contract of sale will be executed between you and Yora India having 
             CIN NO: U47711HR2024PTC125950, with its registered office at Regd. Office: FORUM DLF CYBER CITY, PHASE 3, 
-            SECTOR 24, DLF QE, Dlf Qe, Gurgaon- 122002, Haryana Tel. (+91) 8717000084, Website: www.Yoraa.co.in, 
+            SECTOR 24, DLF QE, Dlf Qe, Gurgaon- 122002, Haryana Tel. (+91) 8717000084, Website: www.yoraa.in, 
             which will be governed by these Terms and Conditions and specifically by the Purchase Terms mentioned below.
           </p>
           <p>
@@ -149,7 +149,7 @@ const TermsAndConditions = () => {
             Alternatively, you may also write to us using the following address:<br />
             Customer Service Yora India,<br />
             Registered Office: FORUM DLF CYBER CITY, PHASE 3, SECTOR 24, DLF QE, Dlf Qe, Gurgaon- 122002, Haryana<br />
-            Customer Service email: support@Yoraa.co.in
+            Customer Service email: support@yoraa.in
           </p>
           
           <h3 className="font-semibold mb-2">4.2 Priorities</h3>
