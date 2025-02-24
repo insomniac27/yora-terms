@@ -1201,7 +1201,7 @@ const TermsAndConditions = () => {
     <br />
     Registered Office: FORUM DLF CYBER CITY, PHASE 3, SECTOR 24, DLF QE, Dlf Qe, Gurgaon- 122002, Haryana
     <br />
-    Customer Service email: support@yoraa.co.in
+    Customer Service email: support@yoraa.in
   </p>
 
   <h3 className="font-semibold mb-2">4.2 Priorities</h3>
