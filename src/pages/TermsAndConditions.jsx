@@ -45,14 +45,13 @@ const TermsAndConditions = () => {
             "App") or any other website or app in which we present these Terms
             and Conditions (together referred to as the "Platform"), upon
             confirmation that such order is accepted a contract of sale will be
-            executed between you and Yora Apparels Private Limited India having CIN NO:
-            U47711HR2024PTC125950, with its registered office at Regd. Office:
-            FORUM DLF CYBER CITY, PHASE 3, SECTOR 24, DLF QE, Dlf Qe, Gurgaon-
-            122002, Haryana Tel. (+91) 8717000084, Website: www.yoraa.in, which
-            will be governed by these Terms and Conditions and specifically by
-            the Purchase Terms mentioned below.
+            executed between you and Yora Apparels Private Limited India having
+            CIN NO: U47711HR2024PTC125950, with its registered office at Regd.
+            Office: FORUM DLF CYBER CITY, PHASE 3, SECTOR 24, DLF QE, Dlf Qe,
+            Gurgaon- 122002, Haryana Tel. (+91) 8717000084, Website:
+            www.yoraa.in, which will be governed by these Terms and Conditions
+            and specifically by the Purchase Terms mentioned below.
           </p>
-          
         </SectionHeader>
 
         <SectionHeader title="2. PURCHASE TERMS" section="purchase">
@@ -201,10 +200,7 @@ const TermsAndConditions = () => {
                 carrier office or the carrier has stored the Products at the
                 pickup location; or
               </li>
-             
             </ul>
-
-           
           </div>
 
           <div className=" mb-4">
@@ -530,10 +526,8 @@ const TermsAndConditions = () => {
             </p>
           </div>
 
-
-
           <div className=" mb-4">
-            <h3 className="font-semibold mb-2">2.17 Exchange policy</h3>
+            <h3 className="font-semibold mb-2">2.16 Exchange policy</h3>
             <p>
               We do not exchange Products. If you wish to exchange a Product,
               you will need to return your purchase for a refund and place a new
@@ -545,7 +539,7 @@ const TermsAndConditions = () => {
 
           <div className=" mb-4 space-y-2">
             <h3 className="font-semibold mb-2">
-              2.18 Damaged or defective Products
+              2.17 Damaged or defective Products
             </h3>
             <p>
               For Yora, quality is paramount. We thoroughly test all our
@@ -1150,60 +1144,107 @@ const TermsAndConditions = () => {
         </SectionHeader>
 
         <SectionHeader title="4. MISCELLANEOUS" section="misc">
-  <h3 className="font-semibold mb-2">4.1 How can you contact us?</h3>
-  <p className="mb-4">
-    If you have any questions or comments about the Platform or the Yora Terms and Conditions or in the unlikely event that you wish to make a complaint please don't hesitate to contact our Customer Service via the means provided in the Help section of the Platform.
-  </p>
-  <p className="mb-4">
-    Alternatively, you may also write to us using the following address:
-    <br />
-    Customer Service Yora India,
-    <br />
-    Registered Office: FORUM DLF CYBER CITY, PHASE 3, SECTOR 24, DLF QE, Dlf Qe, Gurgaon- 122002, Haryana
-    <br />
-    Customer Service email: support@yoraa.in
-  </p>
+          <h3 className="font-semibold mb-2">4.1 How can you contact us?</h3>
+          <p className="mb-4">
+            If you have any questions or comments about the Platform or the Yora
+            Terms and Conditions or in the unlikely event that you wish to make
+            a complaint please don't hesitate to contact.
+          </p>
+          <p className="mb-4">
+            Alternatively, you may also write to us using the following address:
+            <br />
+            Customer Service Yora India,
+            <br />
+            Registered Office: FORUM DLF CYBER CITY, PHASE 3, SECTOR 24, DLF QE,
+            Dlf Qe, Gurgaon- 122002, Haryana
+            <br />
+            Customer Service email: Contact@yoraa.in
+          </p>
 
-  <h3 className="font-semibold mb-2">4.2 Priorities</h3>
-  <p className="mb-4">
-    In case of contradiction between Yora Terms and Conditions and any content contained in other parts of the Platform or in links, Yora Terms and Conditions contained in this document prevail.
-  </p>
+          <h3 className="font-semibold mb-2">4.2 Priorities</h3>
+          <p className="mb-4">
+            In case of contradiction between Yora Terms and Conditions and any
+            content contained in other parts of the Platform or in links, Yora
+            Terms and Conditions contained in this document prevail.
+          </p>
 
-  <h3 className="font-semibold mb-2">4.3 Amendments to the Yora Terms and Conditions</h3>
-  <p className="mb-4">
-    We reserve the right to make changes to these Terms and Conditions at any time. The use of this Platform as well as any purchase agreement executed between you and us, will be subject to the version of the Yora Terms and Conditions in force at the time you place the order through this Platform or the day you browse this Platform (as applicable). Please check the Yora Terms and Conditions periodically for changes.
-  </p>
+          <h3 className="font-semibold mb-2">
+            4.3 Amendments to the Yora Terms and Conditions
+          </h3>
+          <p className="mb-4">
+            We reserve the right to make changes to these Terms and Conditions
+            at any time. The use of this Platform as well as any purchase
+            agreement executed between you and us, will be subject to the
+            version of the Yora Terms and Conditions in force at the time you
+            place the order through this Platform or the day you browse this
+            Platform (as applicable). Please check the Yora Terms and Conditions
+            periodically for changes.
+          </p>
 
-  <h3 className="font-semibold mb-2">4.4 Data protection</h3>
-  <p className="mb-4">
-    Yora fully respects the privacy of individuals who access and use the Platform. For details on the manner in which we use cookies, the type of information we collect, how and for what purpose, we use your information and under what circumstances we disclose information please see our Privacy Policy and Cookies Policy, which are incorporated into and form part of these Yora Terms and Conditions. By placing a purchase order, you agree and understand that we may collect, use, store and process your personal data in accordance with our Privacy Policy.
-  </p>
+          <h3 className="font-semibold mb-2">4.4 Data protection</h3>
+          <p className="mb-4">
+            Yora fully respects the privacy of individuals who access and use
+            the Platform. For details on the manner in which we use cookies, the
+            type of information we collect, how and for what purpose, we use
+            your information and under what circumstances we disclose
+            information please see our Privacy Policy and Cookies Policy, which
+            are incorporated into and form part of these Yora Terms and
+            Conditions. By placing a purchase order, you agree and understand
+            that we may collect, use, store and process your personal data in
+            accordance with our Privacy Policy.
+          </p>
 
-  <h3 className="font-semibold mb-2">4.5 Severance</h3>
-  <p className="mb-4">
-    Each provision of the Yora Terms and Conditions shall be construed separately and independently of each other. If any provision is deemed invalid, void or otherwise unenforceable, that provision shall be deemed severable from and shall not affect the enforceability of any of the other provisions of these Yora Terms and Conditions.
-  </p>
+          <h3 className="font-semibold mb-2">4.5 Severance</h3>
+          <p className="mb-4">
+            Each provision of the Yora Terms and Conditions shall be construed
+            separately and independently of each other. If any provision is
+            deemed invalid, void or otherwise unenforceable, that provision
+            shall be deemed severable from and shall not affect the
+            enforceability of any of the other provisions of these Yora Terms
+            and Conditions.
+          </p>
 
-  <h3 className="font-semibold mb-2">4.6 Sub-contracting and assignment</h3>
-  <p className="mb-4">
-    Yora reserves the right to sub-contract, transfer, assign or novate all or any of our rights and obligations under Yora terms and conditions provided that your rights under Yora terms and conditions are not affected. You may not sub-contract, assign or otherwise transfer any of your rights or obligations under the Yora terms and conditions without our consent in writing.
-  </p>
+          <h3 className="font-semibold mb-2">
+            4.6 Sub-contracting and assignment
+          </h3>
+          <p className="mb-4">
+            Yora reserves the right to sub-contract, transfer, assign or novate
+            all or any of our rights and obligations under Yora terms and
+            conditions provided that your rights under Yora terms and conditions
+            are not affected. You may not sub-contract, assign or otherwise
+            transfer any of your rights or obligations under the Yora terms and
+            conditions without our consent in writing.
+          </p>
 
-  <h3 className="font-semibold mb-2">4.7 Events beyond reasonable control</h3>
-  <p className="mb-4">
-    Yora will be not held responsible for any delay or failure to perform or comply with our obligations under the Yora terms and conditions when the delay or failure arises from any cause which is beyond Yora’ reasonable control.
-  </p>
+          <h3 className="font-semibold mb-2">
+            4.7 Events beyond reasonable control
+          </h3>
+          <p className="mb-4">
+            Yora will be not held responsible for any delay or failure to
+            perform or comply with our obligations under the Yora terms and
+            conditions when the delay or failure arises from any cause which is
+            beyond Yora’ reasonable control.
+          </p>
 
-  <h3 className="font-semibold mb-2">4.8 Applicable law and jurisdiction</h3>
-  <p className="mb-4">
-    The Yora Terms and Conditions shall be governed by the laws of India. Indian law applies to the sales contract, to the exclusion of the United Nations Convention on Contracts for the International Sale of Goods (CISG). This does not affect the applicable mandatory rights under the law of your country of residence. You or Yora shall bring any dispute which may arise under these Terms and Conditions to the competent court of Delhi, India to settle any of such dispute.
-  </p>
-</SectionHeader>
+          <h3 className="font-semibold mb-2">
+            4.8 Applicable law and jurisdiction
+          </h3>
+          <p className="mb-4">
+            The Yora Terms and Conditions shall be governed by the laws of
+            India. Indian law applies to the sales contract, to the exclusion of
+            the United Nations Convention on Contracts for the International
+            Sale of Goods (CISG). This does not affect the applicable mandatory
+            rights under the law of your country of residence. You or Yora shall
+            bring any dispute which may arise under these Terms and Conditions
+            to the competent court of Delhi, India to settle any of such
+            dispute.
+          </p>
+        </SectionHeader>
       </div>
 
       <div className="mt-10 p-6 bg-gray-100 rounded-md">
         <h3 className="font-semibold mb-3">
-          APPENDIX 1 APPENDIX 1 to these Terms and Conditions 
+          APPENDIX 1 APPENDIX 1 to these Terms and Conditions
         </h3>
         <div className="mb-4">
           <h1>Sample Withdrawal Form</h1>
