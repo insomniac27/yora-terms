@@ -45,18 +45,14 @@ const TermsAndConditions = () => {
             "App") or any other website or app in which we present these Terms
             and Conditions (together referred to as the "Platform"), upon
             confirmation that such order is accepted a contract of sale will be
-            executed between you and Yora India having CIN NO:
+            executed between you and Yora Apparels Private Limited India having CIN NO:
             U47711HR2024PTC125950, with its registered office at Regd. Office:
             FORUM DLF CYBER CITY, PHASE 3, SECTOR 24, DLF QE, Dlf Qe, Gurgaon-
             122002, Haryana Tel. (+91) 8717000084, Website: www.yoraa.in, which
             will be governed by these Terms and Conditions and specifically by
             the Purchase Terms mentioned below.
           </p>
-          <p>
-            Yora is the parent company of the Yora group, which includes several
-            affiliated companies; among them AIMPL (hereinafter referred to as
-            "Yora/we/us").
-          </p>
+          
         </SectionHeader>
 
         <SectionHeader title="2. PURCHASE TERMS" section="purchase">
@@ -82,9 +78,7 @@ const TermsAndConditions = () => {
           <p className="mb-4">
             We have different types of products. This may include products fully
             designed and created by us ("Standards Products") – and products
-            that, although designed by us, may be personalised by you by adding
-            your own content: you can for example add your name, select a player
-            or number ("Personalised Products"), jointly "Products".
+            that, although designed by us, Manufactured by 3rd party vendors.
           </p>
           <p className="mb-4">
             Please note that in the case of limited edition or limited
@@ -207,31 +201,10 @@ const TermsAndConditions = () => {
                 carrier office or the carrier has stored the Products at the
                 pickup location; or
               </li>
-              <li>
-                you receive a confirmation from us that the Products are ready
-                for you to pick them up at the selected Yora store, in the event
-                this option is available on the Platform and you have chosen to
-                collect the Products you ordered and paid for on the Platform at
-                an Yora store (Click & Collect).
-              </li>
+             
             </ul>
 
-            <p>
-              Please note that the Click & Collect functionality, once available
-              on the Platform in your country, may not include the option for
-              you to order and pay for the Product on the Platform (as described
-              under clause 2.4. iii) but give you the option to reserve a
-              Product on the Platform and to then buy and thus pay for it
-              locally in an Yora store. This Click & Collect reservation is only
-              possible in selected Yora stores as indicated during the checkout
-              process on the Platform. If you buy the reserved product, you are
-              concluding a purchase agreement with the Yora retailer of your
-              choice locally. This means that you can only return the Product(s)
-              to the same store you bought it from, subject to the return policy
-              of that store. Therefore sections 2.13 and 2.15 below do not apply
-              because they apply only to the return of Products purchased
-              through the Platform.
-            </p>
+           
           </div>
 
           <div className=" mb-4">
