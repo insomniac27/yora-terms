@@ -530,20 +530,7 @@ const TermsAndConditions = () => {
             </p>
           </div>
 
-          <div className=" mb-4">
-            <h3 className="font-semibold mb-2">
-              2.16 Return related to Personalised Products
-            </h3>
-            <p>
-              As explained in section 2.13, since Personalised Products are
-              created just for you, we do not accept returns of Personalised
-              Products except in the case of manufacturing defects. If your
-              Personalised Product has a defect please contact us via the means
-              provided in the Help section of the Platform, or using the contact
-              information provided below under Miscellaneous, for return
-              instructions.
-            </p>
-          </div>
+
 
           <div className=" mb-4">
             <h3 className="font-semibold mb-2">2.17 Exchange policy</h3>
